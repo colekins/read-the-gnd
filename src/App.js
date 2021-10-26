@@ -7,7 +7,9 @@ function App() {
         <h1>Read the Green New Deal</h1>
         <p>Coming soon...</p>
       </header>
+      <div className='middle-nav'></div>
       <div className='main'></div>
+      <footer></footer>
     </div>
   );
 }
