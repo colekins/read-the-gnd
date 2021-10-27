@@ -14,14 +14,10 @@ body a:hover {
   color: white;
 }
 
-/* .container {
-  border-left: 15px solid rgb(203, 232, 255);
-  border-right: 15px solid rgb(203, 232, 255);
-} */
-
 .middle-nav {
   background-color: rgb(208, 232, 252);
   min-height: 80px;
   top: -65px;
   position: sticky;
+  z-index: 5;
 }
