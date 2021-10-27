@@ -8,7 +8,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
   text-align: center;
-  height: 94vh;
+  height: 93vh;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -21,7 +21,7 @@ body {
 .header h1 {
   font-size: 4.9em;
   font-weight: 600;
-  letter-spacing: -3.5px;
+  letter-spacing: -2.2px;
 }
 
 /* .header:after {
@@ -38,7 +38,7 @@ body {
 } */
 
 .middle-nav {
-  border-top: 13px solid rgb(188, 225, 255);
+  border-top: 15px solid rgb(203, 232, 255);
   top: 0;
   position: sticky;
 }
@@ -53,6 +53,6 @@ footer {
   background-image: linear-gradient(
     176deg,
     rgb(255, 255, 255) 40%,
-    rgb(27, 43, 39) calc(40% + 2px)
+    rgb(38, 56, 49) calc(40% + 2px)
   );
 }
