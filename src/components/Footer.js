@@ -8,6 +8,7 @@ const Footer = () => (
         <a
           href='https://www.congress.gov/bill/116th-congress/house-resolution/109/text'
           target='_blank'
+          rel='noreferrer'
         >
           Congress.gov
         </a>
