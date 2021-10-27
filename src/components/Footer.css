@@ -1,0 +1,20 @@
+footer {
+  color: white;
+  width: 100%;
+  min-height: 300px;
+  background-image: linear-gradient(
+    176deg,
+    rgba(255, 255, 255, 0) 40%,
+    rgb(51, 68, 62) calc(40% + 2px)
+  );
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: end;
+  z-index: 999;
+}
+
+footer > div {
+  padding: 0.5em 10vw;
+  text-align: right;
+}
