@@ -6,7 +6,7 @@ footer {
   background-image: linear-gradient(
     176deg,
     rgba(255, 255, 255, 0) 40%,
-    rgb(25, 53, 43) calc(40% + 2px)
+    rgb(33, 56, 48) calc(40% + 2px)
   );
   display: flex;
   flex-direction: column;
