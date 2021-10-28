@@ -15,7 +15,7 @@ header {
 
 header div {
   padding: 2em 7vw;
-  position: absolute;
+  position: fixed;
   z-index: 0;
 }
 
