@@ -1,7 +1,7 @@
 .content {
   font-size: 1.2em;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  line-height: 1.5em;
+  line-height: 1.6;
   padding: 3.5em 10vw;
   padding-bottom: 0;
   z-index: 4;
@@ -16,6 +16,7 @@
 #intro {
   font-size: 0.78em;
   margin-bottom: 4em;
+  /* line-height: 1.5; */
 }
 
 .content li {
