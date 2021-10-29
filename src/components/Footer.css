@@ -1,0 +1,21 @@
+footer {
+  position: absolute;
+  color: white;
+  width: 100%;
+  min-height: 300px;
+  background-image: linear-gradient(
+    176deg,
+    rgba(255, 255, 255, 0) 40%,
+    rgb(33, 56, 48) calc(40% + 2px)
+  );
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
+  z-index: 22;
+}
+
+footer > div {
+  padding: 0.5em 10vw;
+  text-align: right;
+}

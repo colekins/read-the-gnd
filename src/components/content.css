@@ -1,0 +1,28 @@
+.content {
+  font-size: 1.2em;
+  /* font-family: Arial, Helvetica, sans-serif; */
+  line-height: 1.6;
+  padding: 3.5em 10vw;
+  padding-bottom: 0;
+  z-index: 4;
+  position: relative;
+  color: rgb(37, 37, 37);
+}
+
+.bill-title {
+  text-align: center;
+}
+
+#intro {
+  font-size: 0.78em;
+  margin-bottom: 4em;
+  /* line-height: 1.5; */
+}
+
+.content li {
+  margin: 0.7em 0;
+}
+
+.content h1 {
+  margin-bottom: 1.5em;
+}

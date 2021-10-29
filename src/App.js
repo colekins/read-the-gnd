@@ -1,15 +1,17 @@
 import './App.css';
+import Content from './components/Content';
+import Footer from './components/Footer';
+import Header from './components/Header';
 
 function App() {
   return (
     <div className='App'>
-      <header className='header'>
-        <h1>Read the Green New Deal</h1>
-        <p>Coming soon...</p>
-      </header>
-      <div className='middle-nav'></div>
-      <div className='main'></div>
-      <footer></footer>
+      <Header />
+      <div className='container'>
+        <div className='middle-nav'></div>
+        <Content />
+        <Footer />
+      </div>
     </div>
   );
 }
