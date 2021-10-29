@@ -2,7 +2,7 @@ import './content.css';
 
 const Content = () => (
   <div className='content'>
-    <h2 className='bill-title'>H. RES. 109</h2>
+    <h3 className='bill-title'>H. RES. 109</h3>
     <div id='intro'>
       <p>
         Recognizing the duty of the Federal Government to create a Green New
@@ -385,6 +385,130 @@ const Content = () => (
       <li>
         to achieve the Green New Deal goals and mobilization, a Green New Deal
         will require the following goals and projects—
+        <ol type='a'>
+          <li>
+            providing and leveraging, in a way that ensures that the public
+            receives appropriate ownership stakes and returns on investment,
+            adequate capital (including through community grants, public banks,
+            and other public financing), technical expertise, supporting
+            policies, and other forms of assistance to communities,
+            organizations, Federal, State, and local government agencies, and
+            businesses working on the Green New Deal mobilization;
+          </li>
+
+          <li>
+            ensuring that the Federal Government takes into account the complete
+            environmental and social costs and impacts of emissions through—
+            <ol type='i'>
+              <li>existing laws;</li>
+
+              <li>new policies and programs; and</li>
+
+              <li>
+                ensuring that frontline and vulnerable communities shall not be
+                adversely affected;
+              </li>
+            </ol>
+          </li>
+
+          <li>
+            providing resources, training, and high-quality education, including
+            higher education, to all people of the United States, with a focus
+            on frontline and vulnerable communities, so that all people of the
+            United States may be full and equal participants in the Green New
+            Deal mobilization;
+          </li>
+
+          <li>
+            making public investments in the research and development of new
+            clean and renewable energy technologies and industries;
+          </li>
+
+          <li>
+            directing investments to spur economic development, deepen and
+            diversify industry and business in local and regional economies, and
+            build wealth and community ownership, while prioritizing
+            high-quality job creation and economic, social, and environmental
+            benefits in frontline and vulnerable communities, and
+            deindustrialized communities, that may otherwise struggle with the
+            transition away from greenhouse gas intensive industries;
+          </li>
+
+          <li>
+            ensuring the use of democratic and participatory processes that are
+            inclusive of and led by frontline and vulnerable communities and
+            workers to plan, implement, and administer the Green New Deal
+            mobilization at the local level;
+          </li>
+
+          <li>
+            ensuring that the Green New Deal mobilization creates high-quality
+            union jobs that pay prevailing wages, hires local workers, offers
+            training and advancement opportunities, and guarantees wage and
+            benefit parity for workers affected by the transition;
+          </li>
+
+          <li>
+            guaranteeing a job with a family-sustaining wage, adequate family
+            and medical leave, paid vacations, and retirement security to all
+            people of the United States;
+          </li>
+
+          <li>
+            strengthening and protecting the right of all workers to organize,
+            unionize, and collectively bargain free of coercion, intimidation,
+            and harassment;
+          </li>
+
+          <li>
+            strengthening and enforcing labor, workplace health and safety,
+            antidiscrimination, and wage and hour standards across all
+            employers, industries, and sectors;
+          </li>
+          <li>
+            enacting and enforcing trade rules, procurement standards, and
+            border adjustments with strong labor and environmental protections—
+            <ol type='i'>
+              <li>to stop the transfer of jobs and pollution overseas; and</li>
+
+              <li>to grow domestic manufacturing in the United States;</li>
+            </ol>
+          </li>
+          <li>
+            ensuring that public lands, waters, and oceans are protected and
+            that eminent domain is not abused;
+          </li>
+
+          <li>
+            obtaining the free, prior, and informed consent of indigenous
+            peoples for all decisions that affect indigenous peoples and their
+            traditional territories, honoring all treaties and agreements with
+            indigenous peoples, and protecting and enforcing the sovereignty and
+            land rights of indigenous peoples;
+          </li>
+
+          <li>
+            ensuring a commercial environment where every businessperson is free
+            from unfair competition and domination by domestic or international
+            monopolies; and
+          </li>
+
+          <li>
+            providing all people of the United States with—
+            <ol type='i'>
+              <li>high-quality health care;</li>
+
+              <li>affordable, safe, and adequate housing;</li>
+
+              <li>economic security; and</li>
+
+              <li>
+                clean water, clean air, healthy and affordable food, and access
+                to nature.
+              </li>
+            </ol>
+          </li>
+        </ol>
       </li>
     </ol>
   </div>
